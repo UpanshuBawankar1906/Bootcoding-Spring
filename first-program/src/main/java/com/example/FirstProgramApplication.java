@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FirstProgramApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(FirstProgramApplication.class, args);
+		System.out.println("Upanshu");
 	}
 
 }
